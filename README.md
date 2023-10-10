@@ -39,7 +39,10 @@ Team members include:
 优化模型(四): 近似算法、模拟退火算法、遗传算法、其他算法、案例分析
 ~~~
 
+Table:
 
+~~~
    Date    |               Content               |        Contributor        |
     ---                      ---                             ---
-2023.10.10 | Set up the team account             |      Shoufeng Zhang       |
+2023.10.10 | Set up the organization on Github   |      Shoufeng Zhang       |
+~~~
