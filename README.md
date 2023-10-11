@@ -43,6 +43,12 @@ Table:
 
 ~~~
    Date    |               Content               |        Contributor        |
-    ---                      ---                             ---
+-----------|-------------------------------------|---------------------------|
 2023.10.10 | Set up the organization on Github   |      Shoufeng Zhang       |
+-----------|-------------------------------------|---------------------------|
+2023.10.11 | Learning MATLAB, finished 36% of    |                           |
+           | the official tutorial. Including    |      Shoufeng Zhang       |
+           | basic commands, syntax, data        |                           |
+           | structure, etc.                     |                           |
+-----------|-------------------------------------|---------------------------|           
 ~~~
