@@ -52,5 +52,10 @@ Table:
            | structure, etc.                     |                           |
 -----------|-------------------------------------|---------------------------|  
 2023.10.12 | Finished the MATLAB tutorial        |      Shoufeng Zhang       |
------------|-------------------------------------|---------------------------|        
+           |-------------------------------------|---------------------------|
+           |Learned data preprocessing, analytic |                           |
+           |hierarchy process, entropy weight    |        Jasper Gao         |
+           |method, comprehensive evaluation     |                           |
+           |method, TOPSIS method.               |                           |
+-----------|-------------------------------------|---------------------------|  
 ~~~
