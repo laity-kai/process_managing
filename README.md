@@ -57,5 +57,8 @@ Table:
            |hierarchy process, entropy weight    |        Jasper Gao         |
            |method, comprehensive evaluation     |                           |
            |method, TOPSIS method.               |                           |
------------|-------------------------------------|---------------------------|  
-~~~
+           |-------------------------------------|---------------------------|  
+           |Learned about linear programming, in-|                           |
+           |cluding mathematic logic, real life  |        Eugene Sun         |
+           |expamples and matlab designs         |                           |
+           |-------------------------------------|---------------------------|  
