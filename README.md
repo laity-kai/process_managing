@@ -61,4 +61,12 @@ Table:
            |Learned about linear programming, in-|                           |
            |cluding mathematic logic, real life  |        Eugene Sun         |
            |expamples and matlab designs         |                           |
-           |-------------------------------------|---------------------------|  
+-----------|-------------------------------------|---------------------------|
+2023.10.13 | Learned about nonlinear programming |                           |
+           | models and real life examples       |       Eugene Sun          |
+-----------|-------------------------------------|---------------------------|
+2023.10.14 | Learned about nonlinear programming |                           |
+             models and real life examples       |       Eugene Sun          |
+-----------|-------------------------------------|---------------------------|
+
+
