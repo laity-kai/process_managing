@@ -42,31 +42,33 @@ Team members include:
 Table:
 
 ~~~
-   Date    |               Content               |        Contributor        |
------------|-------------------------------------|---------------------------|
-2023.10.10 | Set up the organization on Github   |      Shoufeng Zhang       |
------------|-------------------------------------|---------------------------|
-2023.10.11 | Learning MATLAB, finished 36% of    |                           |
-           | the official tutorial. Including    |      Shoufeng Zhang       |
-           | basic commands, syntax, data        |                           |
-           | structure, etc.                     |                           |
------------|-------------------------------------|---------------------------|  
-2023.10.12 | Finished the MATLAB tutorial        |      Shoufeng Zhang       |
-           |-------------------------------------|---------------------------|
-           |Learned data preprocessing, analytic |                           |
-           |hierarchy process, entropy weight    |        Jasper Gao         |
-           |method, comprehensive evaluation     |                           |
-           |method, TOPSIS method.               |                           |
-           |-------------------------------------|---------------------------|  
-           |Learned about linear programming, in-|                           |
-           |cluding mathematic logic, real life  |        Eugene Sun         |
-           |expamples and matlab designs         |                           |
------------|-------------------------------------|---------------------------|
-2023.10.13 | Learned about nonlinear programming |                           |
-           | models and real life examples       |       Eugene Sun          |
------------|-------------------------------------|---------------------------|
-2023.10.14 | Learned about nonlinear programming |                           |
-             models and real life examples       |       Eugene Sun          |
------------|-------------------------------------|---------------------------|
-
-
+|    Date    |               Content               |        Contributor        |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.10 | Set up the organization on Github   |      Shoufeng Zhang       |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.11 | Learning MATLAB, finished 36% of    |                           |
+|            | the official tutorial. Including    |      Shoufeng Zhang       |
+|            | basic commands, syntax, data        |                           |
+|            | structure, etc.                     |                           |
+|------------|-------------------------------------|---------------------------|  
+| 2023.10.12 | Finished the MATLAB tutorial        |      Shoufeng Zhang       |
+|            |-------------------------------------|---------------------------|
+|            |Learned data preprocessing, analytic |                           |
+|            |hierarchy process, entropy weight    |        Jasper Gao         |
+|            |method, comprehensive evaluation     |                           |
+|            |method, TOPSIS method.               |                           |
+|            |-------------------------------------|---------------------------|  
+|            |Learned about linear programming, in-|                           |
+|            |cluding mathematic logic, real life  |        Eugene Sun         |
+|            |expamples and matlab designs         |                           |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.13 | Learned about nonlinear programming |                           |
+|            | models and real life examples       |       Eugene Sun          |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.14 | Learned about nonlinear programming |                           |
+|            | models and real life examples       |       Eugene Sun          |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.16 | Learned simulated annealing         |                           |
+|            | algorithm, genetic algorithm and    |       Jasper Gao          |
+|            | grey prediction model.              |                           |
+|------------|-------------------------------------|---------------------------|
