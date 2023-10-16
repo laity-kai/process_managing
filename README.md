@@ -72,3 +72,8 @@ Table:
 |            | algorithm, genetic algorithm and    |       Jasper Gao          |
 |            | grey prediction model.              |                           |
 |------------|-------------------------------------|---------------------------|
+|            | Differential equation: Basic models,|                           |
+|            | numerical solution to the differnet-|        Gerry Wang         |
+| 2023.10.16 | ial eqaution.Practical implementati-|                           |
+|            | on of the eqaution                  |                           |
+|------------|-----------------------------------------------------------------|
