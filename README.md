@@ -72,3 +72,9 @@ Table:
 |            | algorithm, genetic algorithm and    |       Jasper Gao          |
 |            | grey prediction model.              |                           |
 |------------|-------------------------------------|---------------------------|
+| 2023.10.16 | learned the basic five models, defi-|                           |
+|            | nition, and Euler's method of diffe-|       Gerry Wang          |
+|            | rential equation                    |                           |
+|------------|-------------------------------------|---------------------------|
+
+
