@@ -65,8 +65,9 @@ Table:
 | 2023.10.13 | Learned about nonlinear programming |                           |
 |            | models and real life examples       |       Eugene Sun          |
 |------------|-------------------------------------|---------------------------|
-| 2023.10.14 | Learned about nonlinear programming |                           |
-|            | models and real life examples       |       Eugene Sun          |
+| 2023.10.14 | Learned about multi-objective       |                           | 
+|            | programming models and real life    |       Eugene Sun          |
+|            | examples                            |                           |
 |------------|-------------------------------------|---------------------------|
 | 2023.10.16 | Learned simulated annealing         |                           |
 |            | algorithm, genetic algorithm and    |       Jasper Gao          |
@@ -75,6 +76,14 @@ Table:
 | 2023.10.16 | learned the basic five models, defi-|                           |
 |            | nition, and Euler's method of diffe-|       Gerry Wang          |
 |            | rential equation                    |                           |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.16 | learned about shortest path models  |                           |
+|            | and real life examples              |       Eugene Sun          |
+|------------|-------------------------------------|---------------------------|
+| 2023.10.17 | learned about minimum spanning tree |                           |
+|            |programming models, minspantree func-|       Eugene Sun          |
+|            |tion, Kruskal algorithms and Prim    |                           |
+|            |algorithms                           |                           |     
 |------------|-------------------------------------|---------------------------|
 
 
