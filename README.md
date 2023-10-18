@@ -85,5 +85,8 @@ Table:
 |            |tion, Kruskal algorithms and Prim    |                           |
 |            |algorithms                           |                           |     
 |------------|-------------------------------------|---------------------------|
-
-
+| 2023.10.18 | Finish the all differential equation|                           |
+|            |, which include ODE, ODE set, Euler m|       Gerry Wang          |
+|            |ethod, Newton's method, pratical use |                           |
+|            |of ODE and ODE set.                  |                           |     
+|------------|-------------------------------------|---------------------------|
